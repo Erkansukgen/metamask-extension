@@ -245,7 +245,7 @@
     "@spruceid/siwe-parser@npm:2.1.0": "patch:@spruceid/siwe-parser@npm%3A2.1.0#~/.yarn/patches/@spruceid-siwe-parser-npm-2.1.0-060b7ede7a.patch"
   },
   "dependencies": {
-    "@babel/runtime": "patch:@babel/runtime@npm%3A7.24.0#~/.yarn/patches/@babel-runtime-npm-7.24.0-7eb1dd11a2.patch",
+    "@babel/runtime": "7.26.10",
     "@blockaid/ppom_release": "^1.4.6",
     "@contentful/rich-text-html-renderer": "^16.3.5",
     "@ensdomains/content-hash": "^2.5.7",
@@ -321,7 +321,7 @@
     "@metamask/selected-network-controller": "^12.0.1",
     "@metamask/signature-controller": "^12.0.0",
     "@metamask/smart-transactions-controller": "^8.1.0",
-    "@metamask/snaps-controllers": "^8.0.0",
+    "@metamask/snaps-controllers": "^12.0.0",
     "@metamask/snaps-execution-environments": "^6.0.2",
     "@metamask/snaps-rpc-methods": "^8.0.0",
     "@metamask/snaps-sdk": "^4.0.1",
@@ -339,7 +339,7 @@
     "@sentry/integrations": "^7.53.0",
     "@sentry/types": "^7.53.0",
     "@sentry/utils": "^7.53.0",
-    "@trezor/connect-web": "9.1.12",
+    "@trezor/connect-web": "9.5.2",
     "@zxing/browser": "^0.1.4",
     "@zxing/library": "0.20.0",
     "await-semaphore": "^0.1.1",
